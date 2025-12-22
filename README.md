@@ -1,10 +1,11 @@
-# Daily Dew Bible App - Privacy Policy
+# Daily Dew Bible App - Privacy Policy & Support
 
-This repository hosts the privacy policy for the Daily Dew Bible App.
+This repository hosts the privacy policy and support page for the Daily Dew Bible App.
 
-## Live Privacy Policy
+## Live Pages
 
-The privacy policy is available at: **https://zintan.github.io/daily-dew-privacy/**
+- **Privacy Policy:** https://zintan.github.io/daily-dew-privacy/
+- **Support Page:** https://zintan.github.io/daily-dew-privacy/support.html
 
 ## About Daily Dew Bible App
 
@@ -16,6 +17,7 @@ Daily Dew Bible App is a mobile application that provides Bible reading, study t
 ## Repository Contents
 
 - `index.html` - The formatted privacy policy page
+- `support.html` - The support and help page
 - `PRIVACY_POLICY.md` - The source privacy policy in Markdown format
 
 ## Updates
