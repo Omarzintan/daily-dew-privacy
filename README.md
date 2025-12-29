@@ -11,7 +11,7 @@ This repository hosts the privacy policy and support page for the Daily Dew Bibl
 
 Daily Dew Bible App is a mobile application that provides Bible reading, study tools, and spiritual growth features.
 
-**Developer:** GroundTech  
+**Developer:** DailyDewBible  
 **Contact:** dailydewbible@gmail.com
 
 ## Repository Contents
@@ -26,4 +26,4 @@ Last Updated: December 20, 2025
 
 ---
 
-© 2025 GroundTech - Daily Dew Bible App
+© 2025 DailyDewBible - Daily Dew Bible App
